@@ -1,6 +1,6 @@
 # Current Weather Data
 
-A Weather app made with Streamlit. Shows the weather based on the city chosen by the user. It's possible to switch between Portuguese and English.
+A weather app made with Streamlit. Shows the weather based on the city chosen by the user. It's possible to switch between Portuguese and English.
 
 You can access [here](https://lelis-weather-data.streamlit.app/).
 
